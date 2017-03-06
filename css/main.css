@@ -1,5 +1,8 @@
+html {
+  font-family: "Abhaya Libre", serif;
+}
+
 .masthead {
-  font-family: 'Abhaya Libre', serif;
   background-color: #423ca3;
 }
 
@@ -36,6 +39,12 @@ li:hover a {
 
 @media only screen and (min-width: 60em) {
 
+  .logo {
+    text-align: left;
+  }
 
+  .nav {
+    text-align: right;
+  }
 
 }
