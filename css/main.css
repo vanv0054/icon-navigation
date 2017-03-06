@@ -16,3 +16,8 @@ nav li {
   background-color: #15114c;
   border-radius: 10px;
 }
+
+li:hover {
+  background-color: #fff;
+  color: #000;
+}
