@@ -18,6 +18,24 @@ nav li {
 }
 
 li:hover {
-  background-color: #fff;
   color: #000;
+  background-color: #fff;
+}
+
+li:hover a {
+  color: #000;
+}
+
+.logo {
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+
+
 }
