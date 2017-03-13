@@ -20,12 +20,10 @@ nav li {
   border-radius: 10px;
 }
 
-nav li:hover {
-  background-color: #fff;
-}
 
 li:hover a {
   color: #000;
+  background-color: #fff;
 }
 
 .logo {
